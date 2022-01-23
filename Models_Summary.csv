@@ -1,0 +1,7 @@
+Sr.No,Best Model,Accuracy
+KNRegressor__{'n_neighbors': 2},"[{'bestParam': {'n_neighbors': 2}, 'accuracy': 0.4427500485897205}]"
+Linear__{'n_jobs': 5},"[{'bestParam': {'n_neighbors': 2}, 'accuracy': 0.86994923666245}]"
+Linear__{'n_jobs': 5},"[{'bestParam': {'n_neighbors': 3}, 'accuracy': 0.8095601252752725}]"
+KNRegressor__{'n_neighbors': 2},"[{'bestParam': {'n_neighbors': 2}, 'accuracy': 0.8363633572193149}]"
+KNRegressor__{'n_neighbors': 2},"[{'bestParam': {'n_neighbors': 2}, 'accuracy': 0.8785360737300567}]"
+Linear__{'n_jobs': 5},"[{'bestParam': {'n_neighbors': 2}, 'accuracy': 0.7395113143409436}]"
